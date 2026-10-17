@@ -1,5 +1,5 @@
 {
-  "name": "week05_wed_express_routes",
+  "name": "Week-6-Nodejs-Express-Mongoose",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,10 +9,12 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Jenifa Joseph",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "dotenv": "^18.0.8",
+    "express": "^5.1.0",
+    "mongoose": "^9.11.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
