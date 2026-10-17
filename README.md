@@ -64,4 +64,7 @@ https://github.com/Jenifaj8/101571040_COMP3123-exec06
 
 ## Deployment
 
-Vercel deployment will be configured separately.
+The Books REST API is deployed on Vercel and connected to MongoDB Atlas.
+
+Live API:
+https://101571040-comp-3123-exec06.vercel.app/api/v1/books
